@@ -1,0 +1,12 @@
+- name: KeepCodingCloudDevops8
+  description: "Users for BootCamp KeepCodingCloudDevops Edition 8"
+  users:
+  - user_name: xoanmallon
+    email: xoanmallon@gmail.com
+    name: "Xoan Mallon"
+- name: KeepCodingCiber8
+  description: "Users for Bootcamp KeepCoding Cybersecurity Edition 5"
+  users:
+  - user_name: adrrodgar
+    email: adrrodgar@gmail.com
+    name: "Adrian"
